@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.BottomNavigation" parent="Theme.MaterialComponents.DayNight.NoActionBar"/>
+
+    <style name="Base.Theme.VodafoneYanimda" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@android:color/white</item>
+    </style>
+
+
+    <style name="stories" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@android:color/white</item>
+    </style>
+
+    <style name="floating1" parent="Widget.Design.FloatingActionButton">
+        <item name = "android:foreground">
+            @drawable/tobi
+        </item>
+    </style>
+    <style name="Theme.VodafoneYanimda" parent="Base.Theme.VodafoneYanimda" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textColor">#373737</color>
+    <color name="storyOutline">#9C2B9F</color>
+    <color name="mainBg">#EEECED</color>
+</resources>
